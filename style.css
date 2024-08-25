@@ -71,5 +71,5 @@ body {
 .stars i.active:hover {
     transform: scale(1.3);
     color: #ffa502;
-    /* Slightly brighter color on hover when active */
+
 }
